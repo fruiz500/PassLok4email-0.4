@@ -7,10 +7,10 @@ PassLok for Email is also designed to be very easy to use. The sender's Lock (pu
 
 The extensions published in the Chrome and Firefox stores are identical, except for the manifest.json file. Those files are renamed in this repo so you know which is which.
 
-Authentication for the latest version, which is 0.4.15:
+Authentication for the latest version, which is 0.4.16:
 
 This is the SHA256 of the .crx file obtained from the Chrome store, as described in the Help document: 
-2aaa6de2f3af9828b66d197c05b1b40179c946af73273c90d64b5721803c5ac6
+838fb796e3792035bfe26d7e9004475e53db07d2dca6360c987d33e7f637d0dd
 
 And this is the SHA256 of the .xpi file obtained from the Firefox store:
-988a3810bbe57c531bc200608ac8bbbf4be1799c9ff7add28330592cc2717fca
+55d02d6facf17fe733eb2f912ddd00278085cf38dfa3d086dba7410ae94fed89
